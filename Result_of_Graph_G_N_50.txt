@@ -1,0 +1,55 @@
+Total number of nodes = 50 
+Total number of edges in the minimum spanning three = 49 
+List of edges & their costs: 
+(38, 48) edge cost: 205 
+(13, 14) edge cost: 206 
+(17, 23) edge cost: 207 
+(18, 39) edge cost: 208 
+(2, 9) edge cost: 210 
+(22, 28) edge cost: 211 
+(1, 14) edge cost: 212 
+(29, 50) edge cost: 214 
+(30, 49) edge cost: 214 
+(2, 3) edge cost: 216 
+(4, 45) edge cost: 217 
+(11, 40) edge cost: 217 
+(42, 44) edge cost: 217 
+(9, 24) edge cost: 218 
+(12, 29) edge cost: 218 
+(13, 28) edge cost: 218 
+(16, 19) edge cost: 218 
+(18, 44) edge cost: 218 
+(22, 40) edge cost: 218 
+(3, 40) edge cost: 220 
+(4, 42) edge cost: 220 
+(6, 24) edge cost: 220 
+(20, 32) edge cost: 220 
+(9, 32) edge cost: 221 
+(16, 27) edge cost: 221 
+(32, 50) edge cost: 221 
+(40, 48) edge cost: 221 
+(43, 48) edge cost: 221 
+(2, 8) edge cost: 222 
+(3, 21) edge cost: 222 
+(5, 16) edge cost: 222 
+(31, 49) edge cost: 222 
+(13, 39) edge cost: 223 
+(30, 38) edge cost: 223 
+(5, 38) edge cost: 224 
+(19, 35) edge cost: 224 
+(21, 33) edge cost: 224 
+(30, 46) edge cost: 225 
+(10, 30) edge cost: 226 
+(10, 41) edge cost: 227 
+(23, 27) edge cost: 228 
+(20, 47) edge cost: 229 
+(6, 36) edge cost: 230 
+(7, 32) edge cost: 231 
+(25, 46) edge cost: 232 
+(28, 37) edge cost: 232 
+(7, 26) edge cost: 234 
+(6, 34) edge cost: 235 
+(15, 26) edge cost: 236 
+Total cost of minimum spanning tree is = Sum of ( 205 + 206 + 207 + 208 + 210 + 211 + 212 + 214 + 214 + 216 + 217 + 217 + 217 + 218 + 218 + 218 + 218 + 218 + 218 + 220 + 220 + 220 + 220 + 221 + 221 + 221 + 221 + 221 + 222 + 222 + 222 + 222 + 223 + 223 + 224 + 224 + 224 + 225 + 226 + 227 + 228 + 229 + 230 + 231 + 232 + 232 + 234 + 235 + 236 ) = 10818 
+Total execution time is = 2.3860931396484375 milliseconds 
+Total memory consumption is = 42897408 bytes 

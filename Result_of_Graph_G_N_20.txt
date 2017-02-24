@@ -1,0 +1,25 @@
+Total number of nodes = 20 
+Total number of edges in the minimum spanning three = 19 
+List of edges & their costs: 
+(12, 13) edge cost: 204 
+(1, 12) edge cost: 205 
+(1, 10) edge cost: 210 
+(2, 6) edge cost: 210 
+(2, 15) edge cost: 211 
+(15, 19) edge cost: 211 
+(11, 12) edge cost: 217 
+(3, 14) edge cost: 218 
+(14, 20) edge cost: 221 
+(8, 18) edge cost: 227 
+(17, 20) edge cost: 228 
+(3, 13) edge cost: 229 
+(4, 11) edge cost: 230 
+(13, 16) edge cost: 230 
+(1, 18) edge cost: 231 
+(6, 16) edge cost: 234 
+(5, 10) edge cost: 235 
+(9, 11) edge cost: 242 
+(1, 7) edge cost: 257 
+Total cost of minimum spanning tree is = Sum of ( 204 + 205 + 210 + 210 + 211 + 211 + 217 + 218 + 221 + 227 + 228 + 229 + 230 + 230 + 231 + 234 + 235 + 242 + 257 ) = 4250 
+Total execution time is = 0.4200935363769531 milliseconds 
+Total memory consumption is = 45457408 bytes 
